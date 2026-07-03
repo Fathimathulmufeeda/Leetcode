@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
