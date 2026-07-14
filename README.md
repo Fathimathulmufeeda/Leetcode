@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
