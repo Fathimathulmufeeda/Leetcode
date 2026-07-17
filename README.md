@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,8 +31,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3028-ant-on-the-boundary](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 <!---LeetCode Topics End-->
