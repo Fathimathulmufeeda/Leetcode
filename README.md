@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
