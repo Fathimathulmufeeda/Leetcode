@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [3731-find-missing-elements](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2974-minimum-number-game](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3731-find-missing-elements](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
