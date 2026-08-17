@@ -1,9 +1,13 @@
 function checkPerfectNumber(num: number): boolean {
-    let r=0
-    for(let i=1;i<num;i++){
-        if(num%i==0){
-            r+=i
+    let sum = 0;
+    let i = 1;
+
+    while (i < num) {
+        if (num % i === 0) {
+            sum += i;
         }
+        i++;
     }
-    return r===num
-};
+
+    return sum === num;
+}
