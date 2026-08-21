@@ -1,22 +1,22 @@
 function buyChoco(prices: number[], money: number): number {
-    prices.sort((a, b) => a - b);
+    let first = Infinity;
+    let second = Infinity;
 
-    let min = Infinity;
-
-    for (let i = 0; i < prices.length; i++) {
-        for (let j = i + 1; j < prices.length; j++) {
-
-            let total = prices[i] + prices[j];
-
-            if (total <= money && total < min) {
-                min = total;
-            }
+    for (let price of prices) {
+        if (price < first) {
+            second = first;
+            first = price;
+        } 
+        else if (price < second) {
+            second = price;
         }
     }
 
-    if (min === Infinity) {
-        return money;
+    let total = first + second;
+
+    if (total <= money) {
+        return money - total;
     }
 
-    return money - min;
+    return money;
 }
