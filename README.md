@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3731-find-missing-elements](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
