@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Greedy
