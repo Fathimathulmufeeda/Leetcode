@@ -1,5 +1,4 @@
 function isAnagram(s: string, t: string): boolean {
-    let a=s.split("").sort().join("")
-    let b=t.split("").sort().join("")
-    return a===b
-};
+    return s.length === t.length && 
+           s.split("").sort().join("") === t.split("").sort().join("");
+}
