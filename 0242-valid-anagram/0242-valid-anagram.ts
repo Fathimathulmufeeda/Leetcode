@@ -1,0 +1,5 @@
+function isAnagram(s: string, t: string): boolean {
+    let a=s.split("").sort().join("")
+    let b=t.split("").sort().join("")
+    return a===b
+};
