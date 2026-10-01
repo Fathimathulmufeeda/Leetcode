@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
