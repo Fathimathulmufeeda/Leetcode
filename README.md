@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
