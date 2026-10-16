@@ -2,19 +2,30 @@
  * @param {string} s
  * @return {string}
  */
+
 var reverseVowels = function(s) {
-    let vow=["A","E","I","O","U","a","e","i","o","u"]
-    let arr=s.split("")
-    let va=[]
-    for(let i=0;i<arr.length;i++){
-        if(vow.includes(arr[i])){
-            va.push(arr[i])
+    let arr = s.split("");
+    let vow = "aeiouAEIOU";
+
+    let left = 0;
+    let right = arr.length - 1;
+
+    while (left < right) {
+        if (!vow.includes(arr[left])) {
+            left++;
+        }
+        else if (!vow.includes(arr[right])) {
+            right--;
+        }
+        else {
+            let temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+
+            left++;
+            right--;
         }
     }
-   for(let i=0;i<arr.length;i++){
-    if(vow.includes(arr[i])){
-        arr[i]=va.pop()
-    }
-   }
-   return arr.join("")
+
+    return arr.join("");
 };
