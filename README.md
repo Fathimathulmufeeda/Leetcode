@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2974-minimum-number-game](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
