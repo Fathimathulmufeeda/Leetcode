@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3731-find-missing-elements](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
