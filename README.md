@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1528-shuffle-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3731-find-missing-elements](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
