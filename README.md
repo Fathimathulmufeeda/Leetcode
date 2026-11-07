@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -204,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
