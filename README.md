@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2974-minimum-number-game](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
