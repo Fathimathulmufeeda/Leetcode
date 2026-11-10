@@ -3,15 +3,10 @@
  * @return {string}
  */
 var capitalizeTitle = function(title) {
-    let s=title.split(" ");
-  let r=[];
-  for(let i=0;i<s.length;i++){
-    if(s[i].length <=2){
-    r.push(s[i].toLowerCase());
-    }
-    else{
-      r.push(s[i][0].toUpperCase() + s[i].slice(1).toLowerCase() );
-    }
-  }
-  return r.join(" ")
+    return title.split(" ").map(word => {
+        if(word.length <= 2) {
+            return word.toLowerCase();
+        }
+        return word[0].toUpperCase() + word.slice(1).toLowerCase();
+    }).join(" ");
 };
