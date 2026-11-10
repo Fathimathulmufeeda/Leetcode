@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2129-capitalize-the-title](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Fathimathulmufeeda/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Array
 | Problem Name | Difficulty |
